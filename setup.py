@@ -8,10 +8,10 @@ with open("README.md","r") as readme_file:
 requirements = []
 
 setup(
-      name="notebookc",
-      version="0.0.1",
-      author="Jeff Hale",
-      author_email="jeffmshale@gmail.com",
+      name="noteconvert",
+      version="2.0.1",
+      author="Bose Oladipo",
+      author_email="augustbose@gmail.com",
       description="A package to convert your Jupyter Notebook",
       long_description=readme,
       long_description_content_type="text/markdown",
